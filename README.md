@@ -32,12 +32,12 @@ Configure composer.json:
 
 	"require": {
 		...
-		"mako-pro/blade": "*"
+		"mako-pro/helpers": "*"
 	,
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/mako-pro/blade"
+            "url": "https://github.com/mako-pro/helpers"
         }
     ]
 	
