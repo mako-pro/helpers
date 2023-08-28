@@ -37,7 +37,7 @@ Configure composer.json:
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/makko-pro/blade"
+            "url": "https://github.com/mako-pro/blade"
         }
     ]
 	
