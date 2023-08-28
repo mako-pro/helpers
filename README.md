@@ -32,7 +32,7 @@ Configure composer.json:
 
 	"require": {
 		...
-		"mako-pro/helpers": "*"
+		"makopro/helpers": "*"
 	,
     "repositories": [
         {

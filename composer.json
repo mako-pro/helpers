@@ -1,5 +1,5 @@
 {
-    "name": "mako-pro/helpers",
+    "name": "makopro/helpers",
     "description": "Helper functions for the Mako Framework",
     "autoload": {
         "files": [
