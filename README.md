@@ -40,5 +40,6 @@ Configure composer.json:
             "url": "https://github.com/mako-pro/helpers"
         }
     ],
-	"minimum-stability": "dev-main"
+    "minimum-stability": "dev",
+	"prefer-stable": true
 	
