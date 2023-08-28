@@ -39,5 +39,6 @@ Configure composer.json:
             "type": "vcs",
             "url": "https://github.com/mako-pro/helpers"
         }
-    ]
+    ],
+	"minimum-stability": "dev-main"
 	
