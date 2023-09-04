@@ -1,12 +1,13 @@
 {
     "name": "makopro/helpers",
     "description": "Helper functions for the Mako Framework",
+    "require": {
+        "php": ">=8.0",
+        "mako/framework": "9.1.*"
+    },
     "autoload": {
         "files": [
             "src/helpers.php"
         ]
-    },
-    "require": {
-        "php": ">=8.0"
     }
 }
