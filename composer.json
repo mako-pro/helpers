@@ -2,8 +2,8 @@
     "name": "makopro/helpers",
     "description": "Helper functions for the Mako Framework",
     "require": {
-        "php": ">=8.0",
-        "mako/framework": "9.1.*"
+        "php": ">=8.4.1",
+        "mako/framework": "11.4.*"
     },
     "autoload": {
         "files": [
